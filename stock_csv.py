@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 def symbol_to_path(symbol, base_dir='data'):
